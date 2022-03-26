@@ -31,7 +31,8 @@ Printing the wordcloud masked by a twitter logo image for better visualization.
 <br>![tsa1](https://user-images.githubusercontent.com/68144680/160224000-6bdf8887-10cd-4bc6-8221-dbffdb534400.png)
 <br>Entering keyword and number of tweets from user for analyzing data
 <br>![tsa2](https://user-images.githubusercontent.com/68144680/160224052-ce54c0c2-7d33-4451-b285-4c0224be9258.png)
-
+<br>
 Plotting piechart
+<br>
 ![tsa2](https://user-images.githubusercontent.com/68144680/160224072-59c05e8a-cb18-4d19-a2a3-99d7895df84f.png)
 
